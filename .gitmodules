@@ -1,0 +1,3 @@
+[submodule "GIT_LR1/GIT_LR1"]
+	path = GIT_LR1/GIT_LR1
+	url = git@github.com:fedayaal/RLab1.git
